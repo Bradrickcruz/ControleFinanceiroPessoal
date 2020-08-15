@@ -1,0 +1,13 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.block {
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 3px 2px;
+  margin-bottom: 20px;
+}
